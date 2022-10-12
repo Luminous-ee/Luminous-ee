@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luminous-ee.This is my GitHub username. I'm currently a college student.
-- 👀 I’m interested in Iot industry,I like to find all kinds of interesting projects, and I also enjoy reading and drinking tea.
-- 🌱 I’m currently learning courses of Iot, such as RFID, principles of modern sensors, C/C++, Java, Linux and so on.
+- 👀 I’m interested in Iot industry,I like to find all kinds of interesting projects, and I also enjoy reading and cycling.
+- 🌱 I’m currently learning courses of Iot, such as RFID, WSN, C/C++, Java, Linux and so on.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
